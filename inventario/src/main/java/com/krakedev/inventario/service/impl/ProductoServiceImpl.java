@@ -17,7 +17,7 @@ import lombok.SneakyThrows;
 @RequiredArgsConstructor
 public class ProductoServiceImpl implements ProductoService{
 
-    private ProductoRepository productoRepository;
+    private final ProductoRepository productoRepository;
 
     @Override
     public Producto registrarProducto(Producto producto) {

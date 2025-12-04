@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RestController;
     peticiones y recibir respuestas en formato JSON.
 */
 
-@RestController // Indica que esta clase es un controlador REST
-@RequestMapping("/micontroller")
+//@RestController // Indica que esta clase es un controlador REST
+//@RequestMapping("/micontroller")
 public class SaludoController {
 
     @GetMapping("/saludo") // Mapea las peticiones GET a /micontroller/saludo

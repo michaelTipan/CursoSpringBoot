@@ -1,0 +1,72 @@
+[
+  {
+    "nombreProducto": "Laptop Lenovo IdeaPad 3",
+    "descripcion": "Laptop para uso general con procesador AMD Ryzen",
+    "precio": 650.00,
+    "cantidad": 10,
+    "estadoProducto": "DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Mouse Logitech M170",
+    "descripcion": "Mouse inalámbrico ergonómico",
+    "precio": 12.50,
+    "cantidad": 50,
+    "estadoProducto": "DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Teclado Mecánico Redragon K552",
+    "descripcion": "Teclado mecánico retroiluminado",
+    "precio": 45.99,
+    "cantidad": 20,
+    "estadoProducto": "DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Monitor Samsung 24''",
+    "descripcion": "Monitor LED Full HD de 24 pulgadas",
+    "precio": 140.00,
+    "cantidad": 15,
+    "estadoProducto": "DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Disco SSD Kingston 480GB",
+    "descripcion": "Unidad de estado sólido de alto rendimiento",
+    "precio": 32.00,
+    "cantidad": 40,
+    "estadoProducto": "DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Memoria RAM 8GB DDR4",
+    "descripcion": "Memoria para computadoras de escritorio",
+    "precio": 22.00,
+    "cantidad": 30,
+    "estadoProducto": "DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Audífonos Sony WH-CH510",
+    "descripcion": "Audífonos inalámbricos Bluetooth",
+    "precio": 59.99,
+    "cantidad": 12,
+    "estadoProducto": "NO_DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Cable HDMI 2.0 1.5m",
+    "descripcion": "Cable HDMI compatible con 4K",
+    "precio": 6.50,
+    "cantidad": 100,
+    "estadoProducto": "DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Cargador Tipo C Samsung 25W",
+    "descripcion": "Cargador rápido original de Samsung",
+    "precio": 18.00,
+    "cantidad": 25,
+    "estadoProducto": "DISPONIBLE"
+  },
+  {
+    "nombreProducto": "Impresora HP DeskJet 2710",
+    "descripcion": "Impresora multifunción con WiFi",
+    "precio": 75.00,
+    "cantidad": 8,
+    "estadoProducto": "NO_DISPONIBLE"
+  }
+]

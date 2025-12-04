@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.krakedev.inventario.entity.Message;
 
-@RestController
-@RequestMapping("/api/messages")
+//@RestController
+//@RequestMapping("/api/messages")
 
 public class MessageController {
 
